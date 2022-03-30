@@ -24,3 +24,4 @@ The core algorithm should remain free and open-source. Data validity and anonymi
 
 ## What next
 Social, possibly state-level equal opportunity welfare platform.
+I am open for cooperation with programmers and institutions in developing this project into real-life AI solution.
