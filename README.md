@@ -29,4 +29,4 @@ I am open for cooperation with programmers and institutions in developing this p
 ## Acknowledgments
 Elements of AI, Ethics of AI, Building AI Courses of the University of Helsinki.
 Great noble work, dear Professors!
-REAKTOR gurus, you are awsome!
+REAKTOR gurus, you are awesome!
